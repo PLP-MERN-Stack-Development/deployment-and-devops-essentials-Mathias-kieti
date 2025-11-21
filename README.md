@@ -1,3 +1,6 @@
+render link https://dashboard.render.com/web/srv-d4g66sm3jp1c73dehjhg/deploys/dep-d4g8n363jp1c73dg3rqg
+vercel link https://deploymentanddevopsessentialsplp-b2l7xojvf.vercel.app/
+
 # Deployment and DevOps for MERN Applications
 
 This assignment focuses on deploying a full MERN stack application to production, implementing CI/CD pipelines, and setting up monitoring for your application.
